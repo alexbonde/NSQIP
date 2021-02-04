@@ -8,11 +8,7 @@ We have published five Jupyter notebooks:
 * [Model 3 - Training and validation](https://github.com/alexbonde/NSQIP/blob/main/NSQIP_model_3.ipynb) 
 * [Personalized risk prediction](https://github.com/alexbonde/NSQIP/blob/main/NSQIP_personalized_risk_prediction.ipynb). 
 
-For privacy- and security reasons, we have chosen not to publish the identification numbers of the cases in our test set.
-
-The interactive notebooks can be run using the IPython software at https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html
-
-The ACS NSQIP database can be requested through the American College of Surgeons website at https://facs.org
+For privacy- and security reasons, we have chosen not to publish the identification numbers of the cases in our test set. The interactive notebooks can be run using the IPython software at https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html. The ACS NSQIP database can be requested through the American College of Surgeons website at https://facs.org
 
 ### Background
 Early detection of postoperative complications (PCs), including developing organ failure, is pivotal in engaging targeted treatment strategies aimed at attenuating organ damage, i.e. broad-spectrum antibiotics for infections, fluid therapy for renal failure, high dose anticoagulants for venous thrombosis etc. In an era of increasing health-care costs and limited financial resources, identifying high-risk surgical patients as well as providing personalized precision-medicine based treatment strategies, provides an
