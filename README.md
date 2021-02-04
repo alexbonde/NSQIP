@@ -3,9 +3,9 @@ Code accompanying the paper "Deep Learning in Surgery - Assessing The Utility of
 
 We have published five Jupyter notebooks: 
 * [Data preprocessing](https://github.com/alexbonde/NSQIP/blob/main/NSQIP_data_cleaning.ipynb)
-* [Model 1](https://github.com/alexbonde/NSQIP/blob/main/NSQIP_model_1.ipynb)
-* [Model 2](https://github.com/alexbonde/NSQIP/blob/main/NSQIP_model_2.ipynb)
-* [Model 3](https://github.com/alexbonde/NSQIP/blob/main/NSQIP_model_3.ipynb) 
+* [Model 1 - Training and validation](https://github.com/alexbonde/NSQIP/blob/main/NSQIP_model_1.ipynb)
+* [Model 2 - Training and validation](https://github.com/alexbonde/NSQIP/blob/main/NSQIP_model_2.ipynb)
+* [Model 3 - Training and validation](https://github.com/alexbonde/NSQIP/blob/main/NSQIP_model_3.ipynb) 
 * [Personalized risk prediction](https://github.com/alexbonde/NSQIP/blob/main/NSQIP_personalized_risk_prediction.ipynb). 
 
 For privacy- and security reasons, we have chosen not to publish the identification numbers of the cases in our test set.
