@@ -7,4 +7,5 @@ For privacy- and security reasons, we have chosen not to publish the identificat
 The ACS NSQIP database can be requested through the American College of Surgeons website at https://facs.org
 
 ## Model structure
+![alt text](https://github.com/alexbonde/NSQIP/blob/main/model_structure.png?raw=true)
 
