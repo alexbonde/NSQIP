@@ -17,7 +17,6 @@ obvious pathway for reducing patient morbidity and mortality. The objective of t
 ### Methods
 This prognostic study obtained data from the 2012 – 2018 American College of Surgeons (ACS) National Surgical Quality Improvement Program (NSQIP) database, spanning more than 5.8 million adult surgical cases. We developed three deep neural network models with increasing levels of complexity. In line with the TRIPOD guidelines, we created an independent dataset for final model testing. This was achieved by identifying all patients that were treated at a large Midwestern United States academic medical center (n = 13,771, 0.02% of the adult NSQIP database) and excluding them from the base dataset. The remaining 5,868,110 cases (99,08 %) were randomly split into a training set (79.8%) and a validation set (20%). Output variables included mortality and any of 18 PCs. Model performance was evaluated on the test data, from the single academic medical center, using the area under the receiver operating characteristic curves (ROC AUC). 
 
-### Model structure
 ![alt text](https://github.com/alexbonde/NSQIP/blob/main/model_structure.png?raw=true)
 
 ### Findings
