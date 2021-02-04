@@ -22,6 +22,7 @@ This prognostic study obtained data from the 2012 – 2018 American College of S
 
 ### Findings
 The dataset included 5,881,881 cases with 2941 unique Current Procedural Terminology codes. The mean ROC AUCs of each model outperformed previously published metrics from other models, with a direct correlation between increasing model complexity and performance.
+![alt text](https://github.com/alexbonde/NSQIP/blob/main/model3_rocauc.pdf?raw=true)
 
 ### Interpretation
 We have developed a unified prediction model, based on deep neural networks, for the development of surgical postoperative complications. The model is generally superior
