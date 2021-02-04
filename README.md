@@ -1,10 +1,7 @@
 # Deep Learning in Surgery
 Code accompanying the paper "Deep Learning in Surgery - Assessing The Utility of Deep Neural Networks in Predicting Postoperative Surgical Complications: A Retrospective Study"
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
-
-
-We have published five Jupyter notebooks: [one for data preprocessing](http://google.com){:target="_blank"}, one for each of the three models, and one for calculating personalized risk predictions. 
+We have published five Jupyter notebooks: [one for data preprocessing](https://github.com/alexbonde/NSQIP/blob/main/NSQIP_model_1.ipynb), one for each of the three models, and one for calculating personalized risk predictions. 
 For privacy- and security reasons, we have chosen not to publish the identification numbers of the cases in our test set.
 
 The interactive notebooks can be run using the IPython software at https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html
