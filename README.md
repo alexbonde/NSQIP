@@ -20,9 +20,9 @@ This prognostic study obtained data from the 2012 – 2018 American College of S
 ### Model structure
 ![alt text](https://github.com/alexbonde/NSQIP/blob/main/model_structure.png?raw=true)
 
-
 ### Findings
 The dataset included 5,881,881 cases with 2941 unique Current Procedural Terminology codes. The mean ROC AUCs of each model outperformed previously published metrics from other models, with a direct correlation between increasing model complexity and performance.
+
 ![alt text](https://github.com/alexbonde/NSQIP/blob/main/model_3_ROCAUC.png?raw=true)
 
 ### Interpretation
